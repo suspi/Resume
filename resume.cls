@@ -10,6 +10,9 @@
 \typeout{Document Style `resume' <26 Sep 89, Dec 07>.}
 \setlength{\pdfpagewidth}{8.5in}
 \setlength{\pdfpageheight}{11in}
+\hyphenpenalty=5000
+\tolerance=1000
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % resume.sty
 %
