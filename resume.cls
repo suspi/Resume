@@ -8,8 +8,7 @@
 \usepackage{color}
 \definecolor{ColorOne}{rgb}{0.7,0.05,0.05}
 \typeout{Document Style `resume' <26 Sep 89, Dec 07>.}
-\setlength{\pdfpagewidth}{8.5in}
-\setlength{\pdfpageheight}{11in}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % resume.sty
 %
