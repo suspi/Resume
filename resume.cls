@@ -861,7 +861,7 @@
 
 \renewcommand{\large}{\fontsize{11.5pt}{11.5pt}\selectfont}
 \renewcommand{\small}{\fontsize{10pt}{10pt}\selectfont}
-\renewcommand{\Huge}{\fontsize{35pt}{35pt}\selectfont}
+\renewcommand{\Huge}{\fontsize{40pt}{40pt}\selectfont}
 
 \newcommand{\listing}{\fontsize{11pt}{11pt}\selectfont}
 \newcommand{\infosize}{\fontsize{7pt}{7pt}\selectfont}
